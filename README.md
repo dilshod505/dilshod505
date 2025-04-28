@@ -32,5 +32,5 @@
 
 ### Get In Touch ✉️
 
-- [LinkedIn](https://www.linkedin.com)
-- [Email me](mailto:your-email@example.com)
+
+- [Email me](mailto:vohidjonov505@gmail.com)
